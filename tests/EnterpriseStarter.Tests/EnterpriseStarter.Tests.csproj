@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\EnterpriseStarter.Application\EnterpriseStarter.Application.csproj" />
+    <ProjectReference Include="..\..\src\EnterpriseStarter.Infrastructure\EnterpriseStarter.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
