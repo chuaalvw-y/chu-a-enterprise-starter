@@ -1,4 +1,4 @@
-Copyright (c) 2026 Alvin Wilsen Chan Chua
+Copyright (c) 2026 ChuA Technologies LLC.
 GitHub: chuaalvw-y
 
 All rights reserved.
