@@ -1,6 +1,6 @@
-// Copyright (c) 2026 ChuA Technologies LLC.
+// Copyright (c) 2026 ChuA Unified Platforms LLC.
 // GitHub: chuaalvw-y
-// Licensed under the ChuA Technologies Proprietary Use-Only License.
+// Licensed under the ChuA Unified Platforms Proprietary Use-Only License.
 // See LICENSE.txt in the project root for full license information.
 
 using EnterpriseStarter.Application.Projects;
